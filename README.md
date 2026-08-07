@@ -1,2 +1,2 @@
-# gaia-hike
-site for the Gaia hike meeting(s)
+# gaia-dive
+site for the Gaia dive meeting(s)
